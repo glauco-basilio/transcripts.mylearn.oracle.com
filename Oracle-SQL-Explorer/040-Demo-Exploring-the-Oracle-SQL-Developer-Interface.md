@@ -1,0 +1,9 @@
+# Demo:Exploring the Oracle SQL Developer Interface
+
+All right, as we begin our demo-- demonstration here on exploring the Oracle SQL Developer Interface, we're going to need to navigate over to our environment. To do that, we'll just toggle over to our Linux environment here and begin the process of demonstration.
+
+To work with the SQL developer and interface on your screen, you're going to have a shortcut that you can simply double click on. It will launch your SQL Developer session. And when the splash screen gets out of the way, we will jump into the developer. And the first thing that we will possibly need to do would be to establish a connection so we can communicate here with the database server in question.
+
+To do so, of course, we would click on our green plus sign to open up the dialog window to establish a connection. It would be at this location where we'll enter in a name for our connection and authentication credentials. Our credentials are ora21 in this instance, then the password is exactly the same, ora21. We'll want to check our saved password. And one final thing is our connection type is going to be basic, which means we're going to be using the tnsnames.ora file. We'll need to put in a service name, that is pdborcl.
+
+And before you save or commit this connection set up here, you need to test. So we'll test it. If we come back with success, then we'll go ahead and save our connection. We'll see that it shows up over in our navigational window, our menu over on the left hand side, and now we can go ahead and connect. Once we establish our connection, you'll see that we've connected. It opens us up in a worksheet. It establishes that we have a connection over here on the right hand corner and we could enter and commands. And that pretty much covers it here for this portion of this demonstration. 
